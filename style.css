@@ -1,0 +1,26 @@
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+    color: #6f85c0;
+    position: fixed;
+    text-align: center;
+    top: 50%;
+    left: 48%;
+    margin-top: -80px;
+    margin-left: -150px;
+}
+
+.button-click {
+    position: relative;
+    text-align: center;
+    width: 50%;
+    height: 5%;
+    overflow: auto;
+    margin: auto;
+    position: absolute;
+    top: 0; left: 0; bottom: 0; right: 0;
+}
+
+body{
+    background-color: #d1cfe2;
+}
